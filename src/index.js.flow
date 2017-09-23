@@ -1,0 +1,9 @@
+// @flow
+declare module 'iso-639-2-english' {
+    declare var living: {[string]: string};
+    declare var ancient: {[string]: string};
+    declare var constructed: {[string]: string};
+    declare var extinct: {[string]: string};
+    declare var historical: {[string]: string};
+    declare var other: {[string]: string};
+}

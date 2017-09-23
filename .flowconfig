@@ -1,0 +1,16 @@
+[ignore]
+.*test/**.*
+.*dist/**.*
+.*karma.conf.js
+.*rollup.js
+.*node_modules/flow-*/**.*
+.*node_modules/eslint-*/**.*
+
+[include]
+
+[libs]
+
+[options]
+
+[version]
+0.54.1

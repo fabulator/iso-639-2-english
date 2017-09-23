@@ -1,0 +1,28 @@
+{
+  "name": "iso-639-2-english",
+  "description": "List of iso-639-2 languages in English.",
+  "main": "dist/iso-639-2-english.js",
+  "authors": [
+    "Michal Ozogan <michal@ozogan.eu>"
+  ],
+  "repository": "https://github.com/fabulator/iso-639-2-english.git",
+  "license": "Apache-2.0",
+  "keywords": [
+    "iso",
+    "iso-639-2",
+    "languages",
+    "english"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "karma.conf.js",
+    "package.json",
+    "rollup.js",
+    ".travis.yml"
+  ]
+}
