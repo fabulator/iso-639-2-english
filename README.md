@@ -1,6 +1,11 @@
 List of ISO-639-2 languages
 ============
-![codecov](https://img.shields.io/bower/v/iso-639-2-english.svg) [![codecov](https://img.shields.io/npm/v/iso-639-2-english.svg)](https://www.npmjs.com/package/iso-639-2-english) [![codecov](https://travis-ci.org/fabulator/iso-639-2-english.svg?branch=master)](https://travis-ci.org/fabulator/iso-639-2-english)
+
+[![npm version](https://badge.fury.io/js/iso-639-2-english.svg)](https://badge.fury.io/js/iso-639-2-english)
+[![renovate-app](https://img.shields.io/badge/renovate-app-blue.svg)](https://renovateapp.com/) 
+[![Known Vulnerabilities](https://snyk.io/test/github/fabulator/iso-639-2-english/badge.svg)](https://snyk.io/test/github/fabulator/iso-639-2-english)
+[![codecov](https://codecov.io/gh/fabulator/iso-639-2-english/branch/master/graph/badge.svg)](https://codecov.io/gh/fabulator/iso-639-2-english) 
+[![travis](https://travis-ci.org/fabulator/iso-639-2-english.svg?branch=master)](https://travis-ci.org/fabulator/iso-639-2-english)
 
 This library constains list of ISO-639-2 languages. It is simple object where key is code and value is english name of language. It is divited to 6 types - living, ancient, constructed, extinct, historical and other.
 

@@ -3,8 +3,7 @@
 .*dist/**.*
 .*karma.conf.js
 .*rollup.js
-.*node_modules/flow-*/**.*
-.*node_modules/eslint-*/**.*
+.*node_modules//**.*
 
 [include]
 
@@ -13,4 +12,4 @@
 [options]
 
 [version]
-0.54.1
+0.69.0
