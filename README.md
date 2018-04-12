@@ -24,16 +24,6 @@ var livingISO6392 = require('iso-639-2-english').living;
 console.log(livingISO6392);
 ```
 
-You can also install it as bower package:
-```sh
-bower install iso-639-2-english
-```
-
-and use is very similar as in npm
-```js
-console.log(ISO6392.living);
-```
-
 It can be also used with RequireJS, CommonJS, Browserify or Webpack.
 
 ## Format
