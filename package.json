@@ -36,7 +36,7 @@
     "karma-babel-preprocessor": "^7.0.0",
     "karma-commonjs": "^1.0.0",
     "karma-coverage": "^1.1.1",
-    "karma-jasmine": "^1.0.2",
+    "karma-jasmine": "^2.0.0",
     "karma-junit-reporter": "^1.1.0",
     "karma-phantomjs-launcher": "^1.0.2",
     "phantomjs-prebuilt": "^2.1.13",
