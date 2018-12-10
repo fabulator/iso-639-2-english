@@ -31,7 +31,7 @@
     "eslint-config-socifi": "^1.5.0",
     "flow-bin": "0.87.0",
     "flow-coverage-report": "^0.6.0",
-    "jasmine-core": "^3.0.0",
+    "jasmine-core": "^3.3.0",
     "karma": "^3.0.0",
     "karma-babel-preprocessor": "^7.0.0",
     "karma-commonjs": "^1.0.0",
