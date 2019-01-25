@@ -1,3 +1,0 @@
-# Ignore built files except build/index.js
-rollup.js
-karma.conf.js

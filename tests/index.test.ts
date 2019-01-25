@@ -1,4 +1,4 @@
-import { living } from './../src/index';
+import { living } from '../src';
 
 describe('Languages', () => {
     it('load list of living languages', () => {

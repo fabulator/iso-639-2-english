@@ -1,6 +1,9 @@
 module.exports = {
     extends: [
-        'socifi',
+        '@socifi',
+
     ],
-    root: true,
+    plugins: [
+        'typescript', // fix for Webstorm, otherwise it does not parse ts files
+    ],
 };

@@ -7,8 +7,11 @@ jest.config.js
 renovate.json
 rollup.config.js
 tests
-test
 .idea
 dev
 flow-typed
 tests_results
+tests
+.huskyrc.js
+commitlint.config.js
+tsconfig.json
