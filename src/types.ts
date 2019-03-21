@@ -1,5 +1,5 @@
 declare module '*.json' {
-    type Locales = {[locale: string]: string};
+    interface Locales {[locale: string]: string}
 
     const regions: Locales;
 
