@@ -1,4 +1,1 @@
-module.exports = {
-    ...require('@socifi/jest-config')(),
-    setupFilesAfterEnv: [],
-};
+module.exports = { ...require('@socifi/jest-config')(), transform: { '.ts': 'babel-jest' }, };
