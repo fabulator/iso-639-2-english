@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [1.2.0] 2019-10-24
+### Changed
+- [1432878](https://github.com/fabulator/iso-639-2-english/commit/14328781d10f20648f32708c9f920d6f3f61c70d) Update dev dependency @socifi/rollup-config to ^2.2.2
+
 ## [1.1.0] 2019-10-24
 ### Changed
 - [b796d43](https://github.com/fabulator/iso-639-2-english/commit/b796d43ca52a15fab59638e4b117370080dc6a9b) Update libraries
